@@ -1,0 +1,1 @@
+pierwszy git w ubuntu
