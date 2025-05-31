@@ -1,4 +1,4 @@
 print("hello1")
 print("branch create-navigation")
-liczba = input("liczba")
-liczba2 = "50"
+liczba = int(input("liczba"))
+liczba2 = int(50)
